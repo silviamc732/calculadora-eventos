@@ -41,7 +41,7 @@ def crear_graficos(total_nac, total_int, num_nac, num_int):
 
 
 # Interfaz Streamlit
-st.title("Calculadora de Impacto Económico de Eventos")
+st.title("Calculadora de Impacto Económico de Reuniones")
 
 df_datos = cargar_datos()
 
